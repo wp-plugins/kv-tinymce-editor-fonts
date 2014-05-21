@@ -11,7 +11,7 @@ A tiny plugin to add a new font to your post editor i.e TinyMCE Editor.
 == Description ==
 
  Add Extra buttons fonts and its size with your  WordPress admin post editor i.e TinyMCE Editor.
-If you want to rework with the code, fine take a look at here before start usging this code, It will be helpful to work with your own project.<a href="http://kvcodes.com/" target="blank" > Kvcodes.com </a> 
+If you want to rework with the code, fine take a look at here before start usging this code, It will be helpful to work with your own project.<a href="http://kvcodes.com/2014/05/how-to-add-google-webfonts-to-wordpress-tinymce-editor/" target="blank" > Kvcodes.com </a> 
 
 
 = Features =

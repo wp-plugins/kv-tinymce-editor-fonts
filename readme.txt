@@ -1,6 +1,6 @@
 === KVTinyMCE Editor Add Fonts ===
 Contributors: kvvaradha
-Donate link: http://kvcodes.com 
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=kvvaradha@gmail.com&item_name=KV  TinyMCE Editor Fonts
 Tags: tinymce editor, add fonts, google fonts tinymce editor, 
 Requires at least: 3.1
 Tested up to: 3.9.1

@@ -3,7 +3,7 @@ Contributors: kvvaradha
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=kvvaradha@gmail.com&item_name=KV  TinyMCE Editor Fonts
 Tags: tinymce editor, add fonts, google fonts tinymce editor, kvcodes
 Requires at least: 3.1
-Tested up to: 3.9.1
+Tested up to: 4.1
 License: GPL 
 
 A tiny plugin to add a new font to your post editor i.e TinyMCE Editor. 

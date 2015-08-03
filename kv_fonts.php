@@ -2,7 +2,7 @@
 /**
 Plugin Name: KVTinyMCE Editor Add Fonts
 Plugin URI: http://wordpress.org/plugins/kv-tinymce-editor-fonts/
-Description: Add Extra buttons fonts and its size with your  WordPress admin post editor i.e TinyMCE Editor.
+Description: Add Extra buttons fonts and its size with your  WordPress admin post editor i.e TinyMCE Editor. <a href="http://www.kvcodes.com" target="_blank" > Read more </a> 
 Author: Kvvaradha
 Version: 1.0
 Author URI: http://profiles.wordpress.org/kvvaradha
